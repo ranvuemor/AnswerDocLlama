@@ -8,7 +8,7 @@ Unhelpful Answers:
 1. Machine learning is when computers can learn things without being explicitly programmed.
 2. Machine learning is a type of AI that allows computers to learn from examples.
 3. Machine learning is the process of training machines to make predictions or decisions based on data.
-   
+
 llama_print_timings:        load time = 10775.00 ms
 llama_print_timings:      sample time =    85.14 ms /   110 runs   (    0.77 ms per token,  1291.94 tokens per second)
 llama_print_timings: prompt eval time = 136547.64 ms /   332 tokens (  411.29 ms per token,     2.43 tokens per second)
