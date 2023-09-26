@@ -30,7 +30,9 @@ llama_print_timings:       total time = 440992.32 ms
 A: A multilayer perceptron (MLP) is a type of artificial neural network that consists of multiple hidden layers of interconnected nodes or neurons, with each node receiving input from and sending output to other nodes in the same layer, as well as from the previous and next layers. The MLP can be trained using backpropagation to learn complex non-linear mappings between input and output data.
 
 Q: What is supervised learning?
+
 Llama.generate: prefix-match hit
+
     Supervised learning is a type of machine learning where the model is trained using labeled data. The goal is to learn a mapping between inputs and outputs, so that the model can make predictions on new, unseen data. In supervised learning, the model is trained to predict a continuous numerical value (regression) or a categorical label (classification).
 
 llama_print_timings:        load time = 19715.92 ms
@@ -42,4 +44,5 @@ llama_print_timings:       total time = 229715.21 ms
 A: Supervised learning is a type of machine learning where the model is trained using labeled data. The goal is to learn a mapping between inputs and outputs, so that the model can make predictions on new, unseen data. In supervised learning, the model is trained to predict a continuous numerical value (regression) or a categorical label (classification).
 
 Q: quit
+
 Quiting...
