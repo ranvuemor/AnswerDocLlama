@@ -1,6 +1,7 @@
 ## Example (Tested on Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz 2.11 GHz with 8GB RAM; No GPU)
 
 Q: What is machine learning?
+
     Machine learning is a subfield of artificial intelligence (AI) that involves the use of algorithms and statistical models to enable machines to learn from data, make decisions, and improve their performance on a specific task over time.
 
 Unhelpful Answers:
@@ -18,7 +19,8 @@ llama_print_timings:       total time = 204357.79 ms
 
 A:  Machine learning is a subfield of artificial intelligence (AI) that involves the use of algorithms and statistical models to enable machines to learn from data, make decisions, and improve their performance on a specific task over time.
 
-Q: What is multilayer perceptron?
+Q: What is multilayer perception?
+
     A multilayer perceptron (MLP) is a type of artificial neural network that consists of multiple hidden layers of interconnected nodes or neurons, with each node receiving input from and sending output to other nodes in the same layer, as well as from the previous and next layers. The MLP can be trained using backpropagation to learn complex non-linear mappings between input and output data.
 
 llama_print_timings:        load time = 19715.92 ms
